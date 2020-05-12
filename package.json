@@ -1,0 +1,25 @@
+{
+  "name": "markdown-it-mermaid-plugin",
+  "version": "0.1.0",
+  "description": "A lightweight markdown-it plugin to support mermaid diagram",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "markdown",
+    "markdown-it",
+    "plugin",
+    "mermaid",
+    "diagram"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DCsunset/markdown-it-mermaid-plugin"
+  },
+  "author": "DCsunset",
+  "license": "MIT",
+  "devDependencies": {
+    "markdown-it": "^10.0.0"
+  }
+}
