@@ -20,6 +20,6 @@
   "author": "DCsunset",
   "license": "MIT",
   "devDependencies": {
-    "markdown-it": "^10.0.0"
+    "markdown-it": "^12.3.2"
   }
 }
